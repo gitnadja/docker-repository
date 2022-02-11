@@ -45,4 +45,6 @@ foreach ($Soccer_Country as $user) {
     echo "<br>";
 }
 
+echo "Hello World!";
+
 ?>
